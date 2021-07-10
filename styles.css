@@ -1,0 +1,121 @@
+
+body{
+    text-align: center;
+    font-family: 'Spectral', serif;
+    background-color:	#f0f8ff;
+    color: black;
+}
+ span{
+     text-decoration: underline;
+ }
+ p{
+     width: 40%;
+     margin: 0 auto 0 auto;
+     line-height: 2;
+ }
+ hr{
+     border: double;
+     border-radius: 0;
+     color: blue;
+     width: 30%;
+     size: 0 auto 0 auto;
+ }
+ h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+    color: #f08080;
+ }
+ h2{
+    font-family: 'Prata', serif;
+    font-size: 3rem;
+    color: 	#5f9ea0;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .profile{
+    width: 200px;
+
+}
+.cloudtop{
+    position: absolute;
+    right: 100px;
+    top: 250px;
+
+}
+.cloudbottom{
+    position: absolute;
+    top: 0%;
+    left: 100px;
+}
+.mountain{
+   margin-top: 0%;   width: 600px;
+   height: 300px;
+}
+.profilewritten{
+    margin: 200px auto 100px auto;
+}
+.programming{
+    float: left;
+    margin-left: 15%;
+   
+}
+.text1{
+    text-align: left;
+
+}
+.text2{
+    width: 40%;
+    text-align: left;
+    line-height: 2;
+}
+.skills-row1{
+    margin: 100px auto 100px auto;
+}
+.skills-row2{
+margin: 100px auto ; 
+}
+.programming2{
+ float: right;
+ margin-right: 30%;
+}
+.text3{
+text-align: left;
+margin-left: 250px;
+}
+.text4{
+text-align: left;
+margin-left: 250px;
+
+}
+.intro{
+  margin-bottom: 50px;
+}
+.footerlink{
+color: cornflowerblue;
+padding: 10px;
+border-bottom: 30px;
+}
+.footerlink:hover{
+    color: darkslategray;
+}
+.bottomcontainer{
+    background-color: #808080;
+    padding: 50px;
+}
+.btn{
+    color: cadetblue;
+}
